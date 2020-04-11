@@ -1,9 +1,16 @@
+appdirs==1.4.3
 certifi==2016.2.28
+distlib==0.3.0
 Django==2.2.3
+filelock==3.0.12
+importlib-metadata==1.6.0
+importlib-resources==1.4.0
 Markdown==2.6.9
 pipenv==2018.5.18
 pytz==2017.2
+six==1.14.0
 sqlparse==0.2.3
 virtualenv==15.1.0
 virtualenv-clone==0.5.4
 wincertstore==0.2
+zipp==3.1.0
