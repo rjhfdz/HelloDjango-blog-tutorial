@@ -14,7 +14,7 @@ importlib-metadata==1.6.0
 invoke==1.4.1
 Markdown==2.6.9
 packaging==16.8
-paramiko==2.4.2
+paramiko==2.10.1
 pipenv==2018.5.18
 pyasn1==0.2.3
 pycparser==2.18
