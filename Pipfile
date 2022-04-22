@@ -11,7 +11,7 @@ sqlparse = "==0.2.3"
 virtualenv = "==15.1.0"
 virtualenv-clone = "==0.5.4"
 wincertstore = "==0.2"
-Django = "==2.2.3"
+Django = "==2.2.28"
 Markdown = "==2.6.9"
 gunicorn = "*"
 
